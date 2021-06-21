@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "material",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "matl": [
+      {
+        "name": "人参",
+        "type": "酒"
+      },
+      {
+        "name": "板蓝根",
+        "type": "药"
+      },
+      {
+        "name": "枸杞",
+        "type": "酒"
+      },
+      {
+        "name": "鹿茸",
+        "type": "酒"
+      },
+      {
+        "name": "高粱",
+        "type": "酒"
+      },
+      {
+        "name": "野猪肉",
+        "type": "食材"
+      },
+      {
+        "name": "大葱",
+        "type": "食材"
+      },
+      {
+        "name": "辣椒",
+        "type": "食材"
+      },
+      {
+        "name": "野猪肉",
+        "type": "药材"
+      },
+      {
+        "name": "野猪肉",
+        "type": "药材"
+      },
+      {
+        "name": "野猪肉",
+        "type": "药材"
+      }
+    ]
+  }
+}

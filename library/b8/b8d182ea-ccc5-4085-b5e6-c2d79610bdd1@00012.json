@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cost_0_idle_0",
+    "atlas": "b8d182ea-ccc5-4085-b5e6-c2d79610bdd1",
+    "rect": {
+      "x": 1,
+      "y": 73,
+      "width": 16,
+      "height": 17
+    },
+    "offset": {
+      "x": 0,
+      "y": -14
+    },
+    "originalSize": {
+      "width": 56,
+      "height": 45
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "70639ec3-6894-43df-9f95-ab902a2cb3ef@6c48a",
+    "packable": true
+  }
+}

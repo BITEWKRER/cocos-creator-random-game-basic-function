@@ -1,0 +1,2145 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 6179.790199995041,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 10615.880700007081,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_JsonInit.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 35
+          },
+          "end": {
+            "line": 5,
+            "column": 136
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_Relationship.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 152
+          },
+          "end": {
+            "line": 5,
+            "column": 257
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_CreateRandMap.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 273
+          },
+          "end": {
+            "line": 5,
+            "column": 378
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_Event.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 394
+          },
+          "end": {
+            "line": 5,
+            "column": 491
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_SimpleMath.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 507
+          },
+          "end": {
+            "line": 5,
+            "column": 609
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_WaveCollapseFunction.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 625
+          },
+          "end": {
+            "line": 5,
+            "column": 737
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/avatar.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 753
+          },
+          "end": {
+            "line": 5,
+            "column": 846
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/drawMapInfo.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 862
+          },
+          "end": {
+            "line": 5,
+            "column": 965
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/map_unit_info.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 981
+          },
+          "end": {
+            "line": 5,
+            "column": 1086
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/test_wavefunction.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1102
+          },
+          "end": {
+            "line": 5,
+            "column": 1211
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/until_randomTerrain.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1227
+          },
+          "end": {
+            "line": 5,
+            "column": 1333
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_JsonInit.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_Relationship.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_CreateRandMap.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_Event.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_SimpleMath.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_WaveCollapseFunction.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/avatar.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/drawMapInfo.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/map_unit_info.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/test_wavefunction.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/until_randomTerrain.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/test.ts": {
+    "mTimestamp": 1615732233768.6436,
+    "chunkId": "assets/Script/test.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/TY.ts": {
+    "mTimestamp": 1615732270210.2568,
+    "chunkId": "assets/Script/TY.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/myMathTools.ts": {
+    "mTimestamp": 1615732270210.2568,
+    "chunkId": "assets/Script/myMathTools.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Simple_Math_Tools.ts": {
+    "mTimestamp": 1615732270210.2568,
+    "chunkId": "assets/Script/Simple_Math_Tools.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_simple_Math.ts": {
+    "mTimestamp": 1615810991482.6372,
+    "chunkId": "assets/Script/Util_simple_Math.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_SimpleMath.ts": {
+    "mTimestamp": 1617531959545.146,
+    "chunkId": "assets/Script/Util_SimpleMath.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 21
+          },
+          "end": {
+            "line": 2,
+            "column": 25
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_CreateRandMap.ts": {
+    "mTimestamp": 1617532411804.7107,
+    "chunkId": "assets/Script/Util_CreateRandMap.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "./Util_SimpleMath",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 32
+          },
+          "end": {
+            "line": 2,
+            "column": 51
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_SimpleMath.ts"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1621155828955,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/test/drawMapInfo.ts": {
+    "mTimestamp": 1620983233910.4026,
+    "chunkId": "assets/Script/test/drawMapInfo.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 7
+          },
+          "end": {
+            "line": 11,
+            "column": 11
+          }
+        }
+      },
+      {
+        "value": "../Util_CreateRandMap",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 35
+          },
+          "end": {
+            "line": 12,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "../until_randomTerrain",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 33
+          },
+          "end": {
+            "line": 14,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "../Until_Relationship",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 34
+          },
+          "end": {
+            "line": 15,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "../Util_Event",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 26
+          },
+          "end": {
+            "line": 16,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_CreateRandMap.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/until_randomTerrain.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Until_Relationship.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_Event.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/test/map_unit_info.ts": {
+    "mTimestamp": 1617531959553.1787,
+    "chunkId": "assets/Script/test/map_unit_info.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_WaveFunction.ts": {
+    "mTimestamp": 1616823599209.9995,
+    "chunkId": "assets/Script/Util_WaveFunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 64
+          },
+          "end": {
+            "line": 2,
+            "column": 68
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/test/test_wavefunction.ts": {
+    "mTimestamp": 1617531959555.1394,
+    "chunkId": "assets/Script/test/test_wavefunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_WaveCollapseFunction.ts": {
+    "mTimestamp": 1617531959547.1504,
+    "chunkId": "assets/Script/Util_WaveCollapseFunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 64
+          },
+          "end": {
+            "line": 2,
+            "column": 68
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/avatar.ts": {
+    "mTimestamp": 1617531959541.138,
+    "chunkId": "assets/Script/avatar.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 124
+          },
+          "end": {
+            "line": 2,
+            "column": 128
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/test/typescript.ts": {
+    "mTimestamp": 1617348707735.1365,
+    "chunkId": "assets/Script/test/typescript.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/test/testss.ts": {
+    "mTimestamp": 1617348879659.5544,
+    "chunkId": "assets/Script/test/testss.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../Util_CreateRandMap",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 35
+          },
+          "end": {
+            "line": 3,
+            "column": 58
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_CreateRandMap.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/until_randomTerrain.ts": {
+    "mTimestamp": 1617532957453.8684,
+    "chunkId": "assets/Script/until_randomTerrain.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 56
+          },
+          "end": {
+            "line": 1,
+            "column": 60
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/StringToJson.ts": {
+    "mTimestamp": 1618624977619.6155,
+    "chunkId": "assets/Script/StringToJson.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/person.ts": {
+    "mTimestamp": 1617890653564.418,
+    "chunkId": "assets/Script/person.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/until_Relationship.ts": {
+    "mTimestamp": 1618624883245.7368,
+    "chunkId": "assets/until_Relationship.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Until_Relationship.ts": {
+    "mTimestamp": 1618624883245.7368,
+    "chunkId": "assets/Until_Relationship.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Until_Relationship.ts": {
+    "mTimestamp": 1620994388615.8357,
+    "chunkId": "assets/Script/Until_Relationship.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Util_Event.ts": {
+    "mTimestamp": 1620998788692.3835,
+    "chunkId": "assets/Script/Util_Event.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      },
+      {
+        "value": "./Until_Relationship",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 42
+          },
+          "end": {
+            "line": 2,
+            "column": 64
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Until_Relationship.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Until_EveMag.ts": {
+    "mTimestamp": 1619164936139.5906,
+    "chunkId": "assets/Script/Until_EveMag.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/typescript.ts": {
+    "mTimestamp": 1620452180521.6045,
+    "chunkId": "assets/Script/typescript.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/window.ts": {
+    "mTimestamp": 1620444721728.833,
+    "chunkId": "assets/Script/window.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/publicv.ts.ts": {
+    "mTimestamp": 1620444721728.833,
+    "chunkId": "assets/Script/publicv.ts.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Common.ts": {
+    "mTimestamp": 1620445001884.366,
+    "chunkId": "assets/Script/Common.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/Until_JsonInit.ts": {
+    "mTimestamp": 1620978860364.1333,
+    "chunkId": "assets/Script/Until_JsonInit.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/NewProject_8/assets/Script/init_test.ts": {
+    "mTimestamp": 1620452950702.998,
+    "chunkId": "assets/Script/init_test.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_JsonInit.ts": {
+    "mTimestamp": 1620978860364.1333,
+    "chunkId": "assets/Script/Until_JsonInit.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_Event.ts": {
+    "mTimestamp": 1621154735553.8972,
+    "chunkId": "assets/Script/Util_Event.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      },
+      {
+        "value": "./Until_Relationship",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 42
+          },
+          "end": {
+            "line": 2,
+            "column": 64
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_Relationship.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_Relationship.ts": {
+    "mTimestamp": 1620994388615.8357,
+    "chunkId": "assets/Script/Until_Relationship.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_CreateRandMap.ts": {
+    "mTimestamp": 1617532411804.7107,
+    "chunkId": "assets/Script/Util_CreateRandMap.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "./Util_SimpleMath",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 32
+          },
+          "end": {
+            "line": 2,
+            "column": 51
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_SimpleMath.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_SimpleMath.ts": {
+    "mTimestamp": 1617531959545.146,
+    "chunkId": "assets/Script/Util_SimpleMath.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 21
+          },
+          "end": {
+            "line": 2,
+            "column": 25
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/avatar.ts": {
+    "mTimestamp": 1617531959541.138,
+    "chunkId": "assets/Script/avatar.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 124
+          },
+          "end": {
+            "line": 2,
+            "column": 128
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/map_unit_info.ts": {
+    "mTimestamp": 1617531959553.1787,
+    "chunkId": "assets/Script/test/map_unit_info.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_WaveCollapseFunction.ts": {
+    "mTimestamp": 1617531959547.1504,
+    "chunkId": "assets/Script/Util_WaveCollapseFunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 64
+          },
+          "end": {
+            "line": 2,
+            "column": 68
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/drawMapInfo.ts": {
+    "mTimestamp": 1620983233910.4026,
+    "chunkId": "assets/Script/test/drawMapInfo.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 7
+          },
+          "end": {
+            "line": 11,
+            "column": 11
+          }
+        }
+      },
+      {
+        "value": "../Util_CreateRandMap",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 35
+          },
+          "end": {
+            "line": 12,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "../until_randomTerrain",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 33
+          },
+          "end": {
+            "line": 14,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "../Until_Relationship",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 34
+          },
+          "end": {
+            "line": 15,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "../Util_Event",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 26
+          },
+          "end": {
+            "line": 16,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_CreateRandMap.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/until_randomTerrain.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_Relationship.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_Event.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/until_randomTerrain.ts": {
+    "mTimestamp": 1617532957453.8684,
+    "chunkId": "assets/Script/until_randomTerrain.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 56
+          },
+          "end": {
+            "line": 1,
+            "column": 60
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/test_wavefunction.ts": {
+    "mTimestamp": 1617531959555.1394,
+    "chunkId": "assets/Script/test/test_wavefunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  }
+}

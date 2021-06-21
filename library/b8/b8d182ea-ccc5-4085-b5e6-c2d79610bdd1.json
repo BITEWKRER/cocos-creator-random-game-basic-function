@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "avatar_test",
+    "spriteFrames": [
+      "body_0_idle_0",
+      "b8d182ea-ccc5-4085-b5e6-c2d79610bdd1@8e2a0",
+      "cost_0_idle_0",
+      "b8d182ea-ccc5-4085-b5e6-c2d79610bdd1@00012",
+      "hair_0_idle_0",
+      "b8d182ea-ccc5-4085-b5e6-c2d79610bdd1@43c6c"
+    ]
+  }
+}

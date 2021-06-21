@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rivertop64x64transparentanimated4",
+    "atlas": "25413a94-7138-4a2e-ac3f-371c4d1a2450",
+    "rect": {
+      "x": 727,
+      "y": 1,
+      "width": 64,
+      "height": 48
+    },
+    "offset": {
+      "x": 0,
+      "y": -8
+    },
+    "originalSize": {
+      "width": 64,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "120e70d1-d865-47a0-bc18-d7b2ef37e5cc@6c48a",
+    "packable": true
+  }
+}

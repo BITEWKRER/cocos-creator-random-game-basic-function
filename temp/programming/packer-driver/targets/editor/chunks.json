@@ -1,0 +1,247 @@
+{
+  "assets/Script/test.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/test.js",
+    "mTimestamp": 1615732236946
+  },
+  "assets/Script/TY.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/TY.js",
+    "mTimestamp": 1615732272163
+  },
+  "assets/Script/myMathTools.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/myMathTools.js",
+    "mTimestamp": 1615732375558
+  },
+  "assets/Script/Simple_Math_Tools.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Simple_Math_Tools.js",
+    "mTimestamp": 1615732401698
+  },
+  "assets/Script/Util_simple_Math.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Util_simple_Math.js",
+    "mTimestamp": 1615811035247
+  },
+  "assets/Script/Util_WaveFunction.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Util_WaveFunction.js",
+    "mTimestamp": 1616823818725
+  },
+  "assets/Script/test/typescript.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/test/typescript.js",
+    "mTimestamp": 1617348707798
+  },
+  "assets/Script/test/testss.js": {
+    "imports": {
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "../Util_CreateRandMap": "assets/Script/Util_CreateRandMap.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/test/testss.js",
+    "mTimestamp": 1617349166328
+  },
+  "assets/Script/avatar.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/avatar.js",
+    "mTimestamp": 1621040512422
+  },
+  "assets/Script/Util_SimpleMath.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Util_SimpleMath.js",
+    "mTimestamp": 1621040512389
+  },
+  "assets/Script/test/test_wavefunction.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/test/test_wavefunction.js",
+    "mTimestamp": 1621040512628
+  },
+  "assets/Script/test/map_unit_info.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/test/map_unit_info.js",
+    "mTimestamp": 1621040512462
+  },
+  "assets/Script/Util_WaveCollapseFunction.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Util_WaveCollapseFunction.js",
+    "mTimestamp": 1621040512481
+  },
+  "assets/Script/Util_CreateRandMap.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./Util_SimpleMath": "assets/Script/Util_SimpleMath.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Util_CreateRandMap.js",
+    "mTimestamp": 1621040512364
+  },
+  "assets/Script/until_randomTerrain.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/until_randomTerrain.js",
+    "mTimestamp": 1621040512617
+  },
+  "assets/Script/person.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/person.js",
+    "mTimestamp": 1617890931042
+  },
+  "assets/until_Relationship.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/until_Relationship.js",
+    "mTimestamp": 1618624883284
+  },
+  "assets/Until_Relationship.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Until_Relationship.js",
+    "mTimestamp": 1618624892356
+  },
+  "assets/Script/StringToJson.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/StringToJson.js",
+    "mTimestamp": 1618624980691
+  },
+  "assets/Script/Until_EveMag.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Until_EveMag.js",
+    "mTimestamp": 1619165356914
+  },
+  "assets/Script/window.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/window.js",
+    "mTimestamp": 1620444742291
+  },
+  "assets/Script/publicv.ts.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/publicv.ts.js",
+    "mTimestamp": 1620444756712
+  },
+  "assets/Script/Common.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Common.js",
+    "mTimestamp": 1620445011792
+  },
+  "assets/Script/typescript.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/typescript.js",
+    "mTimestamp": 1620452180559
+  },
+  "assets/Script/init_test.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/init_test.js",
+    "mTimestamp": 1620452950744
+  },
+  "assets/Script/Until_JsonInit.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Until_JsonInit.js",
+    "mTimestamp": 1621040511633
+  },
+  "assets/Script/test/drawMapInfo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "../Util_CreateRandMap": "assets/Script/Util_CreateRandMap.js",
+      "../Until_Relationship": "assets/Script/Until_Relationship.js",
+      "../Util_Event": "assets/Script/Util_Event.js",
+      "../until_randomTerrain": "assets/Script/until_randomTerrain.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/test/drawMapInfo.js",
+    "mTimestamp": 1621040512567
+  },
+  "assets/Script/Until_Relationship.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Until_Relationship.js",
+    "mTimestamp": 1621040512252
+  },
+  "assets/Script/Util_Event.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./Until_Relationship": "assets/Script/Until_Relationship.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Util_Event.js",
+    "mTimestamp": 1621154960333
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1621155839573,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_JsonInit.ts": "assets/Script/Until_JsonInit.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Until_Relationship.ts": "assets/Script/Until_Relationship.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_CreateRandMap.ts": "assets/Script/Util_CreateRandMap.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_Event.ts": "assets/Script/Util_Event.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_SimpleMath.ts": "assets/Script/Util_SimpleMath.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/Util_WaveCollapseFunction.ts": "assets/Script/Util_WaveCollapseFunction.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/avatar.ts": "assets/Script/avatar.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/drawMapInfo.ts": "assets/Script/test/drawMapInfo.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/map_unit_info.ts": "assets/Script/test/map_unit_info.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/test/test_wavefunction.ts": "assets/Script/test/test_wavefunction.js",
+      "file:///C:/Users/Administrator/Desktop/Company_project/NewProject_8/assets/Script/until_randomTerrain.ts": "assets/Script/until_randomTerrain.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1621155839602,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1621155839626
+  }
+}

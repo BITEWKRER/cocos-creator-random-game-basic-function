@@ -1,0 +1,798 @@
+{
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script.meta": {
+    "time": 1617531959539.1292
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script": {
+    "time": 1620453078169.2368,
+    "uuid": "71aad1c1-0d97-49d2-953a-27b9c06fdbcf",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test.ts.meta": {
+    "time": 1615732236900.8833
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\TY.ts.meta": {
+    "time": 1615732161274.3557
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\myMathTools.ts.meta": {
+    "time": 1615732161274.3557
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Simple_Math_Tools.ts.meta": {
+    "time": 1615732161274.3557
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_simple_Math.ts.meta": {
+    "time": 1615811035189.0388
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_SimpleMath.ts.meta": {
+    "time": 1617531959546.1426
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_SimpleMath.ts": {
+    "time": 1617531959545.146,
+    "uuid": "fc9cdddc-ca12-4f55-82b1-10fe1d249d17",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_CreateRandMap.ts.meta": {
+    "time": 1617531959545.146
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_CreateRandMap.ts": {
+    "time": 1617532411804.7107,
+    "uuid": "4b045931-5dfb-41e8-9c27-2880931e0adb",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Secene.meta": {
+    "time": 1615877815432.6753
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Scenes.meta": {
+    "time": 1617531959539.1292
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Scenes": {
+    "time": 1617531959560.116,
+    "uuid": "eaf1217b-da6c-4ddb-b0a3-ff6228ef1e02",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Scenes\\scene.scene.meta": {
+    "time": 1617531959560.116
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Scenes\\scene.scene": {
+    "time": 1620980788783.355,
+    "uuid": "ec146f73-4e24-4abb-9c52-c9a7128741e8",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test.meta": {
+    "time": 1617531959543.1401
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test": {
+    "time": 1617531959556.141,
+    "uuid": "b1cf6e2f-24f2-473a-9595-0ad088134225",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\drawMapInfo.ts.meta": {
+    "time": 1617531959551.1575
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\drawMapInfo.ts": {
+    "time": 1620983233910.4026,
+    "uuid": "d544aaf2-de3e-4a70-a02a-347b7bff101a",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources.meta": {
+    "time": 1615896038482.4172
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Prefab.meta": {
+    "time": 1615896050940.9854
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Prefab\\SpriteSplash-001.prefab.meta": {
+    "time": 1615896061889.4963
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\map_unit_info.ts.meta": {
+    "time": 1617531959555.1394
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\map_unit_info.ts": {
+    "time": 1617531959553.1787,
+    "uuid": "47f88577-fd46-44de-b892-89ad96d930e7",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Prefab\\SpriteSplash-002.prefab.meta": {
+    "time": 1616313432902.7632
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\let a=0;.txt.meta": {
+    "time": 1616651301527.459
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Scenes\\scene-001.scene.meta": {
+    "time": 1617531959558.2266
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Scenes\\scene-001.scene": {
+    "time": 1617532025242.556,
+    "uuid": "215850d1-f505-4e9c-8ff9-2724418c349a",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_WaveFunction.ts.meta": {
+    "time": 1616822231531.8218
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\test_wavefunction.ts.meta": {
+    "time": 1617531959556.141
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\test_wavefunction.ts": {
+    "time": 1617531959555.1394,
+    "uuid": "3d9e9b19-f0e7-43cc-bc5e-a73c4778bbce",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_WaveCollapseFunction.ts.meta": {
+    "time": 1617531959548.064
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_WaveCollapseFunction.ts": {
+    "time": 1617531959547.1504,
+    "uuid": "e36d90c6-4b92-41f4-a363-a9a333810b92",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\avatar.meta": {
+    "time": 1617531959540.1292
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\avatar.ts.meta": {
+    "time": 1617531959542.1487
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\avatar.ts": {
+    "time": 1617531959541.138,
+    "uuid": "8f3f66be-17f3-488f-9881-d63be26ddc79",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\river.plist.meta": {
+    "time": 1617260607105.6482
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\river.png.meta": {
+    "time": 1617260606934.068
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Texture.meta": {
+    "time": 1617260616730.9944
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Texture\\river.png.meta": {
+    "time": 1617260606934.068
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Texture\\river.plist.meta": {
+    "time": 1617260607105.6482
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Texture\\avatar_test.plist.meta": {
+    "time": 1617260903961.6604
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Texture\\avatar_test.png.meta": {
+    "time": 1617260903930.743
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\typescript.ts.meta": {
+    "time": 1617348707744.1118
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\test\\testss.ts.meta": {
+    "time": 1617348707744.1118
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\auto-atlas.pac.meta": {
+    "time": 1617352572871.4563
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\folder.meta": {
+    "time": 1617358080771.6528
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Texture.meta": {
+    "time": 1617260616730.9944
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Texture\\avatar_test.png.meta": {
+    "time": 1617260903930.743
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Texture\\river.png.meta": {
+    "time": 1617260606934.068
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Texture\\avatar_test.plist.meta": {
+    "time": 1617260903961.6604
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\Texture\\river.plist.meta": {
+    "time": 1617260607105.6482
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\aniClip.meta": {
+    "time": 1617359037867.6182
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\aniClip\\avatar.meta": {
+    "time": 1617359042795.8552
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\aniClip\\avatar\\body.meta": {
+    "time": 1617359111569.3857
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\aniClip\\avatar\\body\\idle.meta": {
+    "time": 1617359111571.3416
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\aniClip\\avatar\\body\\idle\\0.anim.meta": {
+    "time": 1617359111624.202
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\animation.anim.meta": {
+    "time": 1617531959538.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\animation.anim": {
+    "time": 1617531959537.1292,
+    "uuid": "4ffc7e62-338f-4248-820d-5e04c7b2e8ff",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\textures.meta": {
+    "time": 1617260616730.9944
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\textures\\avatar_test.png.meta": {
+    "time": 1617260903930.743
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\textures\\river.png.meta": {
+    "time": 1617260606934.068
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\textures\\avatar_test.plist.meta": {
+    "time": 1617260903961.6604
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Resources\\textures\\river.plist.meta": {
+    "time": 1617260607105.6482
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources.meta": {
+    "time": 1617531959538.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip.meta": {
+    "time": 1617531959562.1052
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar.meta": {
+    "time": 1617531959574.1199
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body.meta": {
+    "time": 1617531959574.1199
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle.meta": {
+    "time": 1617531959575.1301
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle\\0.anim.meta": {
+    "time": 1617531959576.1274
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab.meta": {
+    "time": 1617531959564.1582
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-001.prefab.meta": {
+    "time": 1617531959571.1252
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-002.prefab.meta": {
+    "time": 1617531959572.0603
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures.meta": {
+    "time": 1617531959565.075
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\avatar_test.png.meta": {
+    "time": 1617531959568.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\river.png.meta": {
+    "time": 1617531959570.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources": {
+    "time": 1620364999795.5764,
+    "uuid": "6fd33166-6548-4b15-b38f-8cf7e37e9698",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip": {
+    "time": 1617531959574.1199,
+    "uuid": "8d92b853-39f7-47cd-960d-ecd1789a1cb5",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar": {
+    "time": 1617531959574.1199,
+    "uuid": "d3748dea-ecf3-4ebb-a980-df850cc5f489",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body": {
+    "time": 1617531959575.1301,
+    "uuid": "eff9f80c-16f7-4a14-ae9b-afa0a93d9db1",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle": {
+    "time": 1617531959576.1274,
+    "uuid": "5a3fae13-eaa3-433f-b5d4-ff355c8dcbfe",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab": {
+    "time": 1617531959573.1199,
+    "uuid": "4fe02d95-b762-4c33-bc10-edaad28b11ee",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures": {
+    "time": 1617531959570.12,
+    "uuid": "319dc688-1945-416c-9493-45d97be7be27",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\avatar_test.plist.meta": {
+    "time": 1617531959567.1228
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\river.plist.meta": {
+    "time": 1617531959569.0603
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle\\0.anim": {
+    "time": 1617531959575.1301,
+    "uuid": "4699e6e8-816e-41f0-8d67-344b9bf69726",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-001.prefab": {
+    "time": 1617531959571.1252,
+    "uuid": "2c6f4c83-76b6-4c4a-91c7-4d1678bafd7c",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-002.prefab": {
+    "time": 1617531959572.0603,
+    "uuid": "6a398644-778d-4bd2-83b6-cad4da51b173",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\avatar_test.png": {
+    "time": 1617531959568.12,
+    "uuid": "70639ec3-6894-43df-9f95-ab902a2cb3ef",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\river.png": {
+    "time": 1617531959570.12,
+    "uuid": "120e70d1-d865-47a0-bc18-d7b2ef37e5cc",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\avatar_test.plist": {
+    "time": 1617531959566.1455,
+    "uuid": "b8d182ea-ccc5-4085-b5e6-c2d79610bdd1",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\textures\\river.plist": {
+    "time": 1617531959569.0603,
+    "uuid": "25413a94-7138-4a2e-ac3f-371c4d1a2450",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-003.prefab.meta": {
+    "time": 1617531959573.1199
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-003.prefab": {
+    "time": 1617531959573.1199,
+    "uuid": "cc1614cc-49b6-4c4e-ac82-9e37bdfbb920",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\until_randomTerrain.ts.meta": {
+    "time": 1617532089287.361
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\until_randomTerrain.ts": {
+    "time": 1617532957453.8684,
+    "uuid": "5ae5bf72-5d3b-4e4b-b1c1-28daa49eda18",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\scene.scene.meta": {
+    "time": 1617709108644.2488
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\StringToJson.ts.meta": {
+    "time": 1617709122134.5403
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\person.ts.meta": {
+    "time": 1617885333353.0156
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\until_Relationship.ts.meta": {
+    "time": 1618624883249.729
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Until_Relationship.ts.meta": {
+    "time": 1618624883249.729
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Until_Relationship.ts.meta": {
+    "time": 1618624883249.729
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Until_Relationship.ts": {
+    "time": 1620994388615.8357,
+    "uuid": "41109320-4c11-4964-b048-fbc826b92ed8",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_Event.ts.meta": {
+    "time": 1618810723170.1965
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Util_Event.ts": {
+    "time": 1620998788692.3835,
+    "uuid": "a2dbcb13-a349-4b9b-91d6-6437442f8735",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\famCause.json.meta": {
+    "time": 1618878873098.567
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\famCause.json.meta": {
+    "time": 1618878873098.567
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\famCause.json": {
+    "time": 1618880313785.7886,
+    "uuid": "919e0038-d269-4702-8d2f-642be3d9e479",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Until_EveMag.ts.meta": {
+    "time": 1619164119160.8755
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\clue.json.meta": {
+    "time": 1620362688107.3008
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON.meta": {
+    "time": 1620364999828.3533
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\clue.json.meta": {
+    "time": 1620364999867.3765
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON": {
+    "time": 1620386919676.4143,
+    "uuid": "bc096184-beee-4052-bc0a-82d260dff729",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\clue.json": {
+    "time": 1620444389837.0732,
+    "uuid": "996eaa35-3f92-4f13-9661-fc7760369d33",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\copy.json.meta": {
+    "time": 1620369349356.7842
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\material.json.meta": {
+    "time": 1620369349352.7883
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\monster.json.meta": {
+    "time": 1620369349354.786
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\material.json": {
+    "time": 1620377451203.837,
+    "uuid": "c16b077f-9345-43d5-83d3-dd0e9c9c9e28",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\monster.json": {
+    "time": 1620438610452.1985,
+    "uuid": "5b6b172c-62af-43e8-a392-9a7560198dde",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\copy.json": {
+    "time": 1620368316946.9133,
+    "uuid": "da5849c5-476f-4748-a978-65f277cd0e17",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\town.json.meta": {
+    "time": 1620386919744.9905
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\resources\\JSON\\town.json": {
+    "time": 1620438367634.4187,
+    "uuid": "c6de6e0a-dce4-4590-a200-4e7256d42670",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\typescript.ts.meta": {
+    "time": 1620452180525.6042
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\window.ts.meta": {
+    "time": 1620444702178.1235
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\publicv.ts.ts.meta": {
+    "time": 1620444702178.1235
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Common.ts.meta": {
+    "time": 1620444932565.7288
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\publicv.d.ts.meta": {
+    "time": 1620445078090.693
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\publicv.d.ts": {
+    "time": 1620994010050.4517,
+    "uuid": "3200da34-241b-4757-883e-1cc25ca2493b",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Until_JsonInit.ts.meta": {
+    "time": 1620452786234.8738
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\Until_JsonInit.ts": {
+    "time": 1620978860364.1333,
+    "uuid": "7f189ce3-f046-480f-aceb-5611ffe5addd",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\NewProject_8\\assets\\Script\\init_test.ts.meta": {
+    "time": 1620452950705.998
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\animation.anim.meta": {
+    "time": 1617531959538.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources.meta": {
+    "time": 1617531959538.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip.meta": {
+    "time": 1617531959562.1052
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar.meta": {
+    "time": 1617531959574.1199
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body.meta": {
+    "time": 1617531959574.1199
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle.meta": {
+    "time": 1617531959575.1301
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle\\0.anim.meta": {
+    "time": 1617531959576.1274
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\famCause.json.meta": {
+    "time": 1618878873098.567
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON.meta": {
+    "time": 1620364999828.3533
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\clue.json.meta": {
+    "time": 1620364999867.3765
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\copy.json.meta": {
+    "time": 1620369349356.7842
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\material.json.meta": {
+    "time": 1620369349352.7883
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\monster.json.meta": {
+    "time": 1620369349354.786
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\town.json.meta": {
+    "time": 1620386919744.9905
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab.meta": {
+    "time": 1617531959564.1582
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-001.prefab.meta": {
+    "time": 1617531959571.1252
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-002.prefab.meta": {
+    "time": 1617531959572.0603
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-003.prefab.meta": {
+    "time": 1617531959573.1199
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures.meta": {
+    "time": 1617531959565.075
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Scenes.meta": {
+    "time": 1617531959539.1292
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Scenes\\scene-001.scene.meta": {
+    "time": 1617531959558.2266
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Scenes\\scene.scene.meta": {
+    "time": 1617531959560.116
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script.meta": {
+    "time": 1617531959539.1292
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\avatar.ts.meta": {
+    "time": 1617531959542.1487
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\publicv.d.ts.meta": {
+    "time": 1620445078090.693
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test.meta": {
+    "time": 1617531959543.1401
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test\\drawMapInfo.ts.meta": {
+    "time": 1617531959551.1575
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test\\map_unit_info.ts.meta": {
+    "time": 1617531959555.1394
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test\\test_wavefunction.ts.meta": {
+    "time": 1617531959556.141
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Until_JsonInit.ts.meta": {
+    "time": 1620452786234.8738
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\until_randomTerrain.ts.meta": {
+    "time": 1617532089287.361
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Until_Relationship.ts.meta": {
+    "time": 1618624883249.729
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_CreateRandMap.ts.meta": {
+    "time": 1617531959545.146
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_Event.ts.meta": {
+    "time": 1618810723170.1965
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_SimpleMath.ts.meta": {
+    "time": 1617531959546.1426
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_WaveCollapseFunction.ts.meta": {
+    "time": 1617531959548.064
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\avatar_test.png.meta": {
+    "time": 1617531959568.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\river.png.meta": {
+    "time": 1617531959570.12
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources": {
+    "time": 1620364999795.5764,
+    "uuid": "6fd33166-6548-4b15-b38f-8cf7e37e9698",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip": {
+    "time": 1617531959574.1199,
+    "uuid": "8d92b853-39f7-47cd-960d-ecd1789a1cb5",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar": {
+    "time": 1617531959574.1199,
+    "uuid": "d3748dea-ecf3-4ebb-a980-df850cc5f489",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body": {
+    "time": 1617531959575.1301,
+    "uuid": "eff9f80c-16f7-4a14-ae9b-afa0a93d9db1",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle": {
+    "time": 1617531959576.1274,
+    "uuid": "5a3fae13-eaa3-433f-b5d4-ff355c8dcbfe",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON": {
+    "time": 1620386919676.4143,
+    "uuid": "bc096184-beee-4052-bc0a-82d260dff729",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\avatar_test.plist.meta": {
+    "time": 1617531959567.1228
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\river.plist.meta": {
+    "time": 1617531959569.0603
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\animation.anim": {
+    "time": 1617531959537.1292,
+    "uuid": "4ffc7e62-338f-4248-820d-5e04c7b2e8ff",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\aniClip\\avatar\\body\\idle\\0.anim": {
+    "time": 1617531959575.1301,
+    "uuid": "4699e6e8-816e-41f0-8d67-344b9bf69726",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\copy.json": {
+    "time": 1620368316946.9133,
+    "uuid": "da5849c5-476f-4748-a978-65f277cd0e17",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\famCause.json": {
+    "time": 1618880313785.7886,
+    "uuid": "919e0038-d269-4702-8d2f-642be3d9e479",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\clue.json": {
+    "time": 1620444389837.0732,
+    "uuid": "996eaa35-3f92-4f13-9661-fc7760369d33",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab": {
+    "time": 1617531959573.1199,
+    "uuid": "4fe02d95-b762-4c33-bc10-edaad28b11ee",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\material.json": {
+    "time": 1620377451203.837,
+    "uuid": "c16b077f-9345-43d5-83d3-dd0e9c9c9e28",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\monster.json": {
+    "time": 1620438610452.1985,
+    "uuid": "5b6b172c-62af-43e8-a392-9a7560198dde",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures": {
+    "time": 1617531959570.12,
+    "uuid": "319dc688-1945-416c-9493-45d97be7be27",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Scenes": {
+    "time": 1617531959560.116,
+    "uuid": "eaf1217b-da6c-4ddb-b0a3-ff6228ef1e02",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\JSON\\town.json": {
+    "time": 1620438367634.4187,
+    "uuid": "c6de6e0a-dce4-4590-a200-4e7256d42670",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-002.prefab": {
+    "time": 1617531959572.0603,
+    "uuid": "6a398644-778d-4bd2-83b6-cad4da51b173",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-001.prefab": {
+    "time": 1617531959571.1252,
+    "uuid": "2c6f4c83-76b6-4c4a-91c7-4d1678bafd7c",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script": {
+    "time": 1620453078169.2368,
+    "uuid": "71aad1c1-0d97-49d2-953a-27b9c06fdbcf",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\publicv.d.ts": {
+    "time": 1620994010050.4517,
+    "uuid": "3200da34-241b-4757-883e-1cc25ca2493b",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test": {
+    "time": 1617531959556.141,
+    "uuid": "b1cf6e2f-24f2-473a-9595-0ad088134225",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\avatar.ts": {
+    "time": 1617531959541.138,
+    "uuid": "8f3f66be-17f3-488f-9881-d63be26ddc79",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test\\drawMapInfo.ts": {
+    "time": 1620983233910.4026,
+    "uuid": "d544aaf2-de3e-4a70-a02a-347b7bff101a",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test\\map_unit_info.ts": {
+    "time": 1617531959553.1787,
+    "uuid": "47f88577-fd46-44de-b892-89ad96d930e7",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\test\\test_wavefunction.ts": {
+    "time": 1617531959555.1394,
+    "uuid": "3d9e9b19-f0e7-43cc-bc5e-a73c4778bbce",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Until_JsonInit.ts": {
+    "time": 1620978860364.1333,
+    "uuid": "7f189ce3-f046-480f-aceb-5611ffe5addd",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\until_randomTerrain.ts": {
+    "time": 1617532957453.8684,
+    "uuid": "5ae5bf72-5d3b-4e4b-b1c1-28daa49eda18",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Until_Relationship.ts": {
+    "time": 1620994388615.8357,
+    "uuid": "41109320-4c11-4964-b048-fbc826b92ed8",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_CreateRandMap.ts": {
+    "time": 1617532411804.7107,
+    "uuid": "4b045931-5dfb-41e8-9c27-2880931e0adb",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_Event.ts": {
+    "time": 1621154735553.8972,
+    "uuid": "a2dbcb13-a349-4b9b-91d6-6437442f8735",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_SimpleMath.ts": {
+    "time": 1617531959545.146,
+    "uuid": "fc9cdddc-ca12-4f55-82b1-10fe1d249d17",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Script\\Util_WaveCollapseFunction.ts": {
+    "time": 1617531959547.1504,
+    "uuid": "e36d90c6-4b92-41f4-a363-a9a333810b92",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\Prefab\\SpriteSplash-003.prefab": {
+    "time": 1617531959573.1199,
+    "uuid": "cc1614cc-49b6-4c4e-ac82-9e37bdfbb920",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Scenes\\scene-001.scene": {
+    "time": 1621040511190.3616,
+    "uuid": "215850d1-f505-4e9c-8ff9-2724418c349a",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\Scenes\\scene.scene": {
+    "time": 1621040511202.3616,
+    "uuid": "ec146f73-4e24-4abb-9c52-c9a7128741e8",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\river.png": {
+    "time": 1617531959570.12,
+    "uuid": "120e70d1-d865-47a0-bc18-d7b2ef37e5cc",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\avatar_test.png": {
+    "time": 1617531959568.12,
+    "uuid": "70639ec3-6894-43df-9f95-ab902a2cb3ef",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\avatar_test.plist": {
+    "time": 1617531959566.1455,
+    "uuid": "b8d182ea-ccc5-4085-b5e6-c2d79610bdd1",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Company_project\\NewProject_8\\assets\\resources\\textures\\river.plist": {
+    "time": 1617531959569.0603,
+    "uuid": "25413a94-7138-4a2e-ac3f-371c4d1a2450",
+    "missing": false
+  }
+}
